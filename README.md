@@ -1,8 +1,8 @@
 # NoteApp
 
-1-Saving Note, Location and Image.
+Organized Note app with Saving Note, Location and Image options.
 
-2-Show the location on the Map.
+1-Map
 
 3-Sorting by name and date.
 
